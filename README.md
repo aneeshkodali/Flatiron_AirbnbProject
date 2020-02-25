@@ -41,15 +41,15 @@ Using Folium library, we did some exploratory visualization of the data:
 
 Where are most listings?
 
-[Where are most listings?](img/ExploreDataNumListings.png)
+![Where are most listings?](img/ExploreDataNumListings.png)
 
 How expensive are listings?
 
-[How expensive are listings?](img/ExploreDataMedianPrice.png)
+![How expensive are listings?](img/ExploreDataMedianPrice.png)
 
 How many bedrooms are available?
 
-[How many bedrooms are available?](img/ExploreDataNumBedrooms)
+![How many bedrooms are available?](img/ExploreDataNumBedrooms)
 
 
 ## Model
